@@ -1,0 +1,16 @@
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Service\bin\Debug\netcoreapp2.2\PollCase.Service.deps.json
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Service\bin\Debug\netcoreapp2.2\PollCase.Service.dll
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Service\bin\Debug\netcoreapp2.2\PollCase.Service.pdb
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Service\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Service\bin\Debug\netcoreapp2.2\PollCase.Data.dll
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Service\bin\Debug\netcoreapp2.2\PollCase.Model.dll
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Service\bin\Debug\netcoreapp2.2\PollCase.Data.pdb
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Service\bin\Debug\netcoreapp2.2\PollCase.Model.pdb
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Service\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Service\obj\Debug\netcoreapp2.2\PollCase.Service.csprojAssemblyReference.cache
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Service\obj\Debug\netcoreapp2.2\PollCase.Service.csproj.CoreCompileInputs.cache
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Service\obj\Debug\netcoreapp2.2\PollCase.Service.AssemblyInfoInputs.cache
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Service\obj\Debug\netcoreapp2.2\PollCase.Service.AssemblyInfo.cs
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Service\obj\Debug\netcoreapp2.2\PollCase.Service.csproj.CopyComplete
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Service\obj\Debug\netcoreapp2.2\PollCase.Service.dll
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Service\obj\Debug\netcoreapp2.2\PollCase.Service.pdb

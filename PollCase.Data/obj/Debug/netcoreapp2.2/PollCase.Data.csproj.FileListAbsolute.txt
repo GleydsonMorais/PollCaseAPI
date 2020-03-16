@@ -1,0 +1,8 @@
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Data\bin\Debug\netcoreapp2.2\PollCase.Data.deps.json
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Data\bin\Debug\netcoreapp2.2\PollCase.Data.dll
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Data\bin\Debug\netcoreapp2.2\PollCase.Data.pdb
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Data\obj\Debug\netcoreapp2.2\PollCase.Data.csproj.CoreCompileInputs.cache
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Data\obj\Debug\netcoreapp2.2\PollCase.Data.AssemblyInfoInputs.cache
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Data\obj\Debug\netcoreapp2.2\PollCase.Data.AssemblyInfo.cs
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Data\obj\Debug\netcoreapp2.2\PollCase.Data.dll
+C:\Users\gguedesm\Desktop\GleydsonMorais\Personal Docs\Seleções\Lux Facta\Projeto\PollCase\PollCase.Data\obj\Debug\netcoreapp2.2\PollCase.Data.pdb
